@@ -1,7 +1,7 @@
-﻿
-# Deploying C# Console App to AKS using GitHub Actions
+﻿# Deploying C# Console App to AKS using GitHub Actions
 
 ## 📌 Prerequisites
+
 1. Azure CLI installed or access to Azure Portal.
 2. AKS Cluster already created and accessible.
 3. Dockerfile in your C# project root.
@@ -11,5 +11,5 @@
 7. GitHub Secrets set for automation.
 
 ### Project Wiki Link
-[Wiki](https://github.com/ashwanisinghel/aksMigration/wiki)
 
+[Wiki](https://github.com/ashwanisinghel/aksMigration/wiki)
